@@ -1,6 +1,6 @@
 # WeatherForecast
 
-This is my personal project of a weather aplication.
+This is my personal project of a weather application.
 
 
 
