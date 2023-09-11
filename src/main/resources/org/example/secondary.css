@@ -1,0 +1,11 @@
+.vbox_background_center{
+    -fx-background-image:url("gradient.png")
+}
+.vbox_background_sky{
+    -fx-background-image:url("skyBackground.png")
+}
+.search_button{
+    -fx-background-color:FFFFFF;
+}
+
+
