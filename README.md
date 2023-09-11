@@ -2,6 +2,7 @@
 
 This is my personal project of a weather application.
 
+It uses openweathermap.org 's API to get and show the data matching your query that you type in the search bar.
 
 
 
@@ -16,7 +17,25 @@ This is my personal project of a weather application.
 
 ![image](https://github.com/kiraedds/WeatherForecast/assets/50353861/e3829b01-58c5-4ca1-b911-35d0d4663fa4)
 
+3.You should see all the information displayed along the bottom edge of the application.
 
 # Motivation:
-I created the project to practice javaFX and its Controllers, REST Api, Maven, gson package, scene builder and css
+I created the project to practice:
+
+  -javaFX,
+  
+  -REST Api, 
+  
+  -Maven,
+  
+  -gson package to map the json object to a class,
+  
+  -scene builder and css,
+  
+  -Junit,
+  
+  # Possible future functionalites:
+  -getting data about pollution occuring at the area in question and plotting it against time.
+
+
 
